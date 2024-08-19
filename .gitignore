@@ -1,0 +1,9 @@
+# folders
+cache_dir
+outputs
+runs
+unnecessary
+
+# models
+binary_sexism
+multi_sex
