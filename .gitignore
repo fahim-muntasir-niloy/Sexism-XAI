@@ -5,5 +5,4 @@ runs
 unnecessary
 
 # models
-binary_sexism
-multi_sex
+*.pt
